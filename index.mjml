@@ -1,0 +1,110 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+            <mj-text color="#ffffff" align="center" font-family="roboto, arial, sans-serif"/>
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#000000">
+        <mj-section>
+            <mj-column>
+            
+                <!--Header-->
+                <mj-image src="img/youtube-header.png" alt="" href="https://notifications.google.com/g/p/APHC3cqBp0BkSfJXWAx0T8T02q1cm4KaWs3q1P0-85MdhMamtUa8C8xG5zlk-yPvK2Cld28-sb092RdQTeiMgPyXR0EjdTpU0ngVHAEBApJyQLTC6MxHDMK4VooCSu6zP2Iq_97slSUStOkvbyjM_GULDhCHDo3NpRRjGzf00mL72t_p9vgKAzTH7mo-KXDX0g3XmOkDcEWVvcKKlwAxa_SFzu6qh7kAlvfjCW4pgE7vgCKUGWuHPI_ZMvUNsZIMBoP_crgxgwOt7jxAL4IMIex-r0MiVotrb9awgW4SnMBsYCyuFA" target="_blank"/>
+                <mj-image src="img/sunday-ticket.png" alt=""href="https://notifications.google.com/g/p/APHC3cqA7S903F6BcXz6U3PyEsbqVMb0CA3DoMKxHxV3zSi8tQcRDEtYKrp4-at_gnBNJumzkaGRHOHdxQnmevsexODQrrwIjEOWDQwFM0G7AZr0yZGgPX5jzQF4DTxsz9A2FIfBG1kdDVAH4HMx87bHJlsAmf66ny3Btk6DKOciWc4frcVAFjzqG5ezGNZetTL-KQIvdvOOCUtdg8ySjeZRHjx-oH73CPcSTfSF1mBEaugKE7SiUni8OWOXq-iJW9R9tG33Ron-kbX88YTIIblrHCwV4Umt-eZYDE72SPyRyvcOvLUH_pGYgnbv5F9djQRwXUW9" target="_blank"/>
+                
+                <!--Heading & Offer Button-->
+                <mj-text>
+                    <h1 style="font-size: 36px;">YouTube is the new home of NFL Sunday Ticket</h1>
+                    <p style="color: #aaaaaa;">Get ready to watch your favorite teams’ out-of-market Sunday afternoon games.<sup>1</sup></p>
+                    <h2 style="color: #aaaaaa;">Hurry to lock in at our lowest price of the season with $100 off.</h2>
+                </mj-text>
+                <mj-button font-weight="bold" background-color="#065fd4" inner-padding="15px 35px" font-size="16px" href="https://notifications.google.com/g/p/APHC3cqGW8GweMgnK0O8vD_PpzxK2Wo0mP1dK5AdTeAGb2WzrTFq4e3Kmc9KE7Aj4i8blWGOF-agrsz3bt5hy0rDkbbKgo32CjqKFEl-xyNFxIwsYo-JzMroBHphZqsxppHiGV-QGggGbnDkMVSPYwiMtH5c1g3inXxUXJgOLxYj_YtZY6CmBJw49arvUg1aCfCqtGue9cqd8WHIma3gvAAzLBOuiXnu8fOIJOnsmM0bCiSL05s8VpRwu_R6RPrveGhNga6GLslaVlL3U4oxEoUq212oyuZHOVE1am4SK2sL8lwU0YUHXwWy4PfnyfJp" target="_blank">
+                    GET OFFER NOW
+                </mj-button>
+                <mj-text padding-top="0px">
+                    <p style="color: #aaaaaa;">Terms and embargoes apply. Offer ends June 6, 2023. No refunds.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#131313">
+
+            <!--Hook Section-->
+            <mj-column width="80%">
+                <mj-text>
+                    <h1>NFL Sunday Ticket on YouTube? Touchdown.</h1>
+                </mj-text>
+                <mj-image src="img/check.gif" alt="" width="50px"/>
+                <mj-text padding-top="0">
+                    <h2>Watch live anywhere you like</h2>
+                    <p style="color: #aaaaaa; line-height: 1.5; font-size: 15px;">Catch the NFL action on your TV and supported devices.<sup>2</sup></p>
+                </mj-text>
+                <mj-image src="img/stars.gif" alt="" width="50px"/>
+                <mj-text padding-top="0">
+                    <h2>Keep it hassle﻿-﻿free</h2>
+                    <p style="color: #aaaaaa; line-height: 1.5; font-size: 15px;">No 2-year contracts required. No satellite dish needed. Easy set﻿-﻿up to start watching in minutes.</p>
+                </mj-text>
+                <mj-image src="img/eye.gif" alt="" width="50px"/>
+                <mj-text padding-top="0">
+                    <h2>Get even more NFL and live TV</h2>
+                    <p style="color: #aaaaaa; line-height: 1.5; font-size: 15px;">Bundle with YouTube TV for more live TV, or get it standalone. Available with or without NFL RedZone.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+
+            <!--Offer Button-->
+            <mj-column>
+                <mj-button padding-bottom="0" font-weight="bold" background-color="#065fd4" inner-padding="15px 35px" font-size="16px" href="https://notifications.google.com/g/p/APHC3cqGW8GweMgnK0O8vD_PpzxK2Wo0mP1dK5AdTeAGb2WzrTFq4e3Kmc9KE7Aj4i8blWGOF-agrsz3bt5hy0rDkbbKgo32CjqKFEl-xyNFxIwsYo-JzMroBHphZqsxppHiGV-QGggGbnDkMVSPYwiMtH5c1g3inXxUXJgOLxYj_YtZY6CmBJw49arvUg1aCfCqtGue9cqd8WHIma3gvAAzLBOuiXnu8fOIJOnsmM0bCiSL05s8VpRwu_R6RPrveGhNga6GLslaVlL3U4oxEoUq212oyuZHOVE1am4SK2sL8lwU0YUHXwWy4PfnyfJp" target="_blank">
+                    GET OFFER NOW
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+
+            <!--Helpfullness Meter-->
+            <mj-column>
+                <mj-divider border-color="#ffffff" border-width=".1px" />
+                <mj-text>
+                    <h3 style="color: #aaaaaa;">Was this email helpful?</h3>
+                </mj-text>
+                <mj-text>
+                        <img src="img/feedback-5.png" alt="" style="width: 50px;" href="https://notifications.google.com/g/p/APHC3coWGwZ89ws00Pp8GdyGdbIA8tcduXmHEp3Y0bgjwcna1WbT29d-So6nyBU-k1WgiifUAMFd8c2OKEdXty1iTOyyzXer8BdZTzIzKS6aGnASxEOOIO1ZTBv-RLnVjgATlmBk7A_1tFQIXhF135nfnU-c_BhWiyWY3sNH_S-AVb8-SRzLGnGvjSD6bL0GREdYANVbn_rxWZTwUVDYHKViHLRpznIEiD9JOv4UvwOyNj5cqpDdKJgQN2IiikPhEfLJ3WSJR75Cg2g25A_5bPeoVeAl6tAJ9IKZcOLsl-cB5Gyop0arX_iIc8RV-jojcs548_C_S71mmA" target="_blank">
+                        <img src="img/feedback-4.png" alt="" style="width: 50px;" href="https://notifications.google.com/g/p/APHC3crjG19wDOFypgbErX7O7KzmDGU5E4APW7YQv7PNFh2tgNDcNw0-l01fbNwYLsz31AahYHYFGiNDcgMcT1F6ipCWIwNGyNWRGCdYCl0masuVBx6nJ4z5x8S4xCQAJCkDd6gUp3GxprL5ACFfhdgZcIHvaMSyVToV8pFQbnMjPOx17gA4xSZ-TiAlfbilZytR_k5ZQx5frUZ7uROzM0_kQ_zwR6YKCUumM5f7beuyIx9ndH4yf_yk-ZeFcpkIVA7BovuY1FUhfUzPuqCNs6xvZv4lrFA9-6QktvmzP3-ME57Da6lT_haTo8yGXklvdi0CgSY" target="_blank">
+                        <img src="img/feedback-3.png" alt="" style="width: 50px;" href="https://notifications.google.com/g/p/APHC3coH82pWkCyXTKXeQpYbsWOApq1VD1GAqsN3J1eT4SfCA54U2Nl4vTGAt1rXKWhYfl2ZKihjmnTL3RwVaUS8vTO_XYOqiJgyF991p-ybxyxRsbo6NLhEvi3lixFQmBQXhxMlx5VgCY1iDCKy_v5c_butxIHUW-4Kfr9lSZhrmkhQ8tZvAeXFAtgrV22DfeUgna0t9qgxdo0hHLOOw7gkT-Mqx2jeVt_2P10qTWE2cTPiMsX4dxiahNGcment9StD0pIIAcslWt7LNXgbCny7MBUHOG61pWFDdfRmLuGT7MeZVYKRtgef9mez4nT9s-s9" target="blank">
+                        <img src="img/feedback-2.png" alt="" style="width: 50px;" href="https://notifications.google.com/g/p/APHC3coHq0nSG8IzilZVGHM4sP7qqX0G9F9LkfCLlVpMd-rTc20RgRnd-TnQCAvz44tXdbeJzryfENG7-ZXvzX6QSq3BLib2h2ErNNi_u31SOEwmaXqQUMOslukWyGfSAb7qG2IjMvwNem5hAzyxvNY9baBZu9-TGXBEna-oLfSylpzZKSazxFbHmGATqv2v6pVfzUgf6lHkf_ViZP4cTC4MruMWL8hFqyeTzIA7IJD7EgxcM8elzjUsUIKVWPTh9dp94Zf94U1cM02EJRfb_sLyEs7U2naVQxEbp3O1305EhpwEksChHIiaXb4TEDGFf9Z3APyFnH8" target="_blank">
+                        <img src="img/feedback-1.png" alt="" style="width: 50px;" href="https://notifications.google.com/g/p/APHC3coPbw6UC0UtYARMbnMh1zY1H27PVJlvEnHVm53CSAyZ6uiEoB27gX7S18qhQG6EhdjHLLzR2YykGzjTfY4qqoTT-Prq4h6uJdPg27gxd6puH6k6N9S0XXZ1smffJcNLW8gh52rpWvuXCzmAC2LS4BswT2qqTK0_UGzSEqsEOza56CO8p4Sty1KyxkF-bPr8UXrWAN0MXRFTD9mbKZSiSmhvHTSJW0WifOY_-hJ24B8rNuxTK_Ofr0rdi5edPJIhE7nsBLvENZDpc2GVW54OoWeNxY-8dckrSfVVWANOCPvqg-VTR3fGaDPRh5vUTuWfMiIAQp_Rpo-Mig" target="_blank">
+                </mj-text>
+                <mj-divider border-color="#ffffff" border-width=".1px" />
+
+                <!--Links & Disclaimers-->
+                <mj-social>
+                    <mj-social-element src="img/youtube-icon.png" href="https://notifications.google.com/g/p/APHC3cpnyBOFEYwCRQnc_YsSG33bjqGeVSmrFesrd7e3xs5iBNJPKFvmYsZCOAB2w47h3IZRGm5HUm2f0OHF6rrIO3a4r4aZD4TLQ3yjiH2hTYcKwoYk6XaclZAf1ATJudD_x4ZWa5wGJjSHTRBHWyL8EFQQ6_hEQx_cXtxje4ZLpGm6uWJVTGIZUB-pAxwL-Ar2pfvW0vLRIUCf7_2XbBhtsQe-CRE8lJd15GaTW4kylryTJ2wqoclvk3RdQ28_3Je6LY1_AY0cxANPcsAd-MG81SA-po_QJx7OXP_QFjB2pIZz6E7Q8FPwkfMI10o" target="_blank" icon-size="50px"></mj-social-element>
+                    <mj-social-element src="img/twitter-icon.png" href="https://notifications.google.com/g/p/APHC3cpeARdsUfsj9mtgmeKKiCASRxJ1fmoCBkXEFJlcVT_kzbQB-3KZuDhUSC4nkq_PVJvz8WX94mVjSLGFZLMYcmDdzmnyT8kZ7satfqFecJPx01YUpfkN_RIXpfmZRIW5KnyIs3SRQu5Vx-D0oank8JdJL_-NjtC8oKn-GNPy7BcG6Fb1JMx6RO_YEZVE7NDK5iyrXWzUX_8JN_N10FFoArqfJH1IJK42Q16RurKHtR5MfsBPtDnBgvyw6gPAtuEenmoF8bz71cackRDTdYBj-RvrAUKtOCY949NivXrFJrYKnbEeq5gdCDewsQ" target="_blank" icon-size="50px"></mj-social-element>
+                </mj-social>
+                <mj-text>
+                    <a href="https://notifications.google.com/g/p/APHC3cpS_SgtubEjvUuPOgISOZnbihL5ZJ_if-iCqUIJNxOjlZFYTaAuY1hu0FnS2SBBcxHzq8XNIljjMLD_Ne4XfVb-aG5kUK4Zl4a3JARNl7Kh5WGX1Kd7ubAOG1Vxb_NJMAih4CmGPFxSEUXKyE-iTY2wkHb9L6W7sVRsDqaSZWpknsSZZwuksLEOA2A57S2_XQEpiDOYZfoTwf-WOg3em2Si-ifW6Kzsp3VHtlOH" target="_blank" style="color: #3ea6ff; text-decoration: none; font-weight: bold;">Help Center</a>
+                        <p></p>
+                        <a href="https://notifications.google.com/g/p/APHC3cpyweSwpypcguB2idAcZgzV_qxAIRJIAqkiZ0ilzZEToLlV-wCx77j40Qvq1hGZJGYIVD7kD-8qcCcmlh9WQDy3fpotjNLDdat6SkZg7AJH4hXIltOLrCycw3Y96AQjKIrmfDGWe3YQJT6LCu59jTsUYqPaq6oltZXB60k2b0oCEqtVT7Wkul1iAaEYSejlCvHHD6jA8H_NYRn9DQLEs_SKnQoqYms5Hj5wQXgXYtSKSWKHXqtl1wA" target="_blank" style="color: #3ea6ff; text-decoration: none; font-weight: bold;">Email options</a>
+                </mj-text>
+
+                <mj-text color="#aaaaaa" line-height="20px">
+                    <p><sup>1</sup> Embargo disclaimers: You will generally receive out-of-market Sunday afternoon games unless the game is locally broadcast. Your billing address (zip code) is associated with your streaming access. However, due to NFL rules, you might also see blackout restrictions based on your mobile device’s location (e.g., subscribers might not be able to stream while attending an NFL game or in surrounding stadium areas). If there is an outage in your location, we’ll do our best to let you know.</p>
+                    <p><sup>2</sup> Device and travel restrictions apply.</p>
+                    <p>You received this message because you signed up to receive general updates, announcements, and videos from YouTube. If you do not want to receive general emails from YouTube in the future, please unsubscribe <a href="https://notifications.google.com/g/p/APHC3cqsvJ8Tr4thEeCEaVZ77VzJZ1wZvDr1OGKmjkz9KIIZjaiF-CW8LMPA_kYrpKfZORUxIolUDAhcR23f6FQBgvDnh_MWjfUegmeTnRf0iNwXnd_J29P8MrpJydsThh4YED6O0tWhELMZx5ZH_MSal1plZa16fawpuP9a4_7f10Lh-GjrktZ319XG4aMXPr-_4_sM53K4dXdA1T-ygiJ1EkfS9Hv3CaFxfZyOABGPwUy4IGAbRgN_XsCSuS3rmoUFf8SvA7F5izQ0wor4qcBZYh111Ti0l8FFjtaXMf6rYb4Oz7WDZBWv6_jpB7qQg6sNMo_xiWyBsWm4USH0F1YBy-rGc9UJ7nhBoECSMmq40nIQXEwiEnfRl5wA1cqc" target="_blank" style="color: #3ea6ff; text-decoration: none;">here</a>.</p>
+                </mj-text>
+
+                <!--Footer-->
+                <mj-image src="img/youtube-footer.png" alt="" width="80px"/>
+                <mj-text color="#aaaaaa" line-height="6px">
+                    <p>© 2023 Google LLC d/b/a YouTube</p>
+                    <p>901 Cherry Ave</p>
+                    <p>San Bruno, CA 94066</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        
+    </mj-body>
+</mjml>
